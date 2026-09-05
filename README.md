@@ -1,3 +1,11 @@
+> **This repository has moved and is archived.**
+>
+> Its contents are now [`ui-html/`](https://github.com/metasequoiaime/MSIME-Windows/tree/main/ui-html) in
+> [metasequoiaime/MSIME-Windows](https://github.com/metasequoiaime/MSIME-Windows), which holds the interface resources: the candidate window, floating toolbar, tray menu and settings page.
+> Full history was preserved through the move, so `git log` and `git blame` follow files into their new paths.
+>
+> Open issues and pull requests belong in MSIME-Windows. Nothing here will be updated.
+
 # Metasequoia IME UI HTML
 
 水杉输入法 Windows 端的界面资源。Server 加载这里的页面来渲染候选窗、悬浮工具栏、托盘菜单和设置窗口。
